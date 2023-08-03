@@ -1,0 +1,22 @@
+div {
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+}
+.a {
+  background-color: blue;
+}
+.b {
+  background-color: red;
+}
+.c {
+  background-color: green;
+}
+.d {
+  background-color: yellow;
+}
+.e {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
